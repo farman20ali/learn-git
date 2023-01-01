@@ -1,8 +1,8 @@
 # learn-git
 Repository created to learn git 
  
-I am farman ali making changes in this file 17pg
-Ok farman I have added file as recommended
+I am farman ali made changes in this file
+Ok farman, thanks
 
 adding line by farman ali 
- 
+good to go Sir! 
